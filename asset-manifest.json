@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/memoryClickyGame/static/css/main.c4e140a7.chunk.css",
+    "main.js": "/memoryClickyGame/static/js/main.58cc01e1.chunk.js",
+    "main.js.map": "/memoryClickyGame/static/js/main.58cc01e1.chunk.js.map",
+    "runtime-main.js": "/memoryClickyGame/static/js/runtime-main.2c8bd513.js",
+    "runtime-main.js.map": "/memoryClickyGame/static/js/runtime-main.2c8bd513.js.map",
+    "static/js/2.636322ad.chunk.js": "/memoryClickyGame/static/js/2.636322ad.chunk.js",
+    "static/js/2.636322ad.chunk.js.map": "/memoryClickyGame/static/js/2.636322ad.chunk.js.map",
+    "index.html": "/memoryClickyGame/index.html",
+    "static/css/main.c4e140a7.chunk.css.map": "/memoryClickyGame/static/css/main.c4e140a7.chunk.css.map",
+    "static/js/2.636322ad.chunk.js.LICENSE.txt": "/memoryClickyGame/static/js/2.636322ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c8bd513.js",
+    "static/js/2.636322ad.chunk.js",
+    "static/css/main.c4e140a7.chunk.css",
+    "static/js/main.58cc01e1.chunk.js"
+  ]
+}
