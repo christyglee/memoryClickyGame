@@ -18,7 +18,7 @@ The memory clicky game is built with React.js. The application is component base
 
 <br>
 
-To view this application, please navigate to the **Deployed Link** below or [click here](https://christyglee.github.io/memory-clicky-game/) to view.
+To view this application, please navigate to the **Deployed Link** below or [click here](https://christyglee.github.io/memoryClickyGame/) to view.
 
 <br>
 
@@ -42,7 +42,7 @@ To view this application, please navigate to the **Deployed Link** below or [cli
 
 ## Deployed Link
 
-* [See Deployed Link](https://christyglee.github.io/memory-clicky-game/)
+* [See Deployed Link](https://christyglee.github.io/memoryClickyGame/)
 
 <br>
 
