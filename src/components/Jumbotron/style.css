@@ -1,0 +1,14 @@
+.jumbotron {
+    /* background-color: gray; */
+    background-image: url(https://www.pngkey.com/png/detail/217-2172744_spongebob-squarepants-logo.png);
+    width: 100%;
+    height: 450px;
+    /* background-size: 100%; */
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position-y: 42px;
+    background-position-x: center;
+    background-color: whitesmoke;
+    
+
+}

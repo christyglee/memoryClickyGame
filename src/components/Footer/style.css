@@ -1,0 +1,8 @@
+.footer{
+    flex-shrink: 0;
+    background-color: aqua;
+    color: black;
+    width: 100%;
+    margin-bottom: 0px;
+
+}

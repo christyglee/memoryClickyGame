@@ -1,0 +1,16 @@
+.wrapper {
+  padding-top: 50px;
+  /* background: #ECEFF1; */
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  background-image: url(http://s3.amazonaws.com/nickelodeonparents.com-production/wp-content/uploads/2020/04/SpongeBob_Fence_Nick_Zoom.jpg);
+  background-size: 100%;
+  background-position: fixed;
+
+}
